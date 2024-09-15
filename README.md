@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - GitHub Repository: [Repository](https://github.com/26TracyNjoroge/frontendmentor-blog-preview-card)
-- Live Site URL: [Live Demo](https://26tracynjoroge.github.io/frontendmentor-blog-preview-card/)
+- Live Site URL: [Live Demo](https://frontendmentor-blog-preview-card-six.vercel.app/)
 
 ## My process
 
