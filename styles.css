@@ -66,10 +66,6 @@ p {
     font-weight: 500;
 }
 
-.profile img {
-    width: 10%;
-}
-
 .attribution { 
     font-size: 11px; 
     text-align: center; 
@@ -79,9 +75,19 @@ p {
     color: hsl(228, 45%, 44%); 
 }
 
-.profile {
+.author {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 5.5px;
+
+}
+
+.name {
+    color: #111111;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0;
     font-weight: 800;
+    text-align: left;
+    font-family: "Figtree", sans-serif;
 }
